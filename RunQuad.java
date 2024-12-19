@@ -7,7 +7,7 @@ class Quadrilateral {
     }
 }
 
-// While this is the derived classes
+// These are the derived classes
 class Parallelogram extends Quadrilateral {
     @Override
     public void showDescription() {
